@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuanLyThuVien</string>
+    <string name="title_header">Hệ thống Quản lý Thư viện</string>
+    <string name="label_student">Sinh viên</string>
+    <string name="button_change">Thay đổi</string>
+    <string name="label_book_list">Danh sách sách</string>
+    <string name="button_add">Thêm</string>
+    <string name="nav_manage">Quản lý</string>
+    <string name="nav_book_list">DS Sách</string>
+    <string name="nav_student">Sinh viên</string>
+    <string name="no_book_borrowed">Bạn chưa mượn quyển sách nào.\nNhấn "Thêm" để bắt đầu quá trình đọc sách!</string>
+</resources>
